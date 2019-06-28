@@ -1,6 +1,6 @@
-# Initial page
+# Second page
 
-## Getting Super Powers
+## Testing some stuff
 
 Becoming a super hero is a fairly straight forward process:
 
